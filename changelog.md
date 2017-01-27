@@ -1,33 +1,15 @@
 #Change Log
 
-Team membership:  AB (Captain) & CD (Mate)  
+Team membership:  Terry Kang (Captain) & Tim (Mate) & Yiao (Mate)
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
-## *Version x.x*
+## *Version 0.1*
 
-Release Date: Jul 26, 2027
+Release Date: Jul 27, 2017
 
-## New Components
+## Updated
 
--   controllers
+-   Initialized starter
 
-    -   serbian (AB)
-    
-## Updated Components
-
--   controllers
-
-    -   german (CD)
-    -   hindi (CD)
-
--   models
-
-    -   italian (AB)
-
--   views
-
-    -   slovenian (AB)
-    -   swedish
-
-
+    -   Terry Kang
