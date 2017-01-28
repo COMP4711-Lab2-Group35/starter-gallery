@@ -5,6 +5,15 @@ Team conventions: Allman notation, markdown for changelog
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
 
+## *Version 0.4*
+
+Release Date: Jan 27, 2017
+
+## Updated
+-   From a basic Code Ignite to a Good CI web conversion
+    -Yiaoping Shu
+
+
 ## *Version 0.3*
 
 Release Date: Jan 27, 2017
